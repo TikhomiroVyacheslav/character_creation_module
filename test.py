@@ -1,5 +1,3 @@
-print(
-    'a'
-    'b'
-    'c'
-)
+a = str()
+
+print(type(a))
